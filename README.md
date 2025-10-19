@@ -1,2 +1,2 @@
 # tech-works
-My Tech works
+This repository is for my technical explorations.
